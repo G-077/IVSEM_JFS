@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class sink_nodes {
 
 
     static int sink_nodes(int[][] arr) {
